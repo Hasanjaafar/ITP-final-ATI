@@ -42,4 +42,4 @@ OS (for file operations)
 Project Structure
 calculator_app.py: The main file containing the calculator application code.
 
-By following these instructions, you should be able to install, run, and utilize the Simple Calculator App effectively. If you have any questions or issues, please refer to the source code or the GitHub repository for further details :)
+By following these instructions, you should be able to install, run, and utilize the calculator app. If you have any questions or issues, please refer to the source code or the gitHub repository for further details :)
